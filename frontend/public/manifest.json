@@ -1,0 +1,20 @@
+{
+  "name": "Omni-Scan AI 🇨🇮 | Ndiaye Adama",
+  "short_name": "OmniScan CI",
+  "description": "Scanner de produits et prix localisés en Côte d'Ivoire by Ndiaye Adama Tech.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#FF9900",
+  "icons": [
+    {
+      "src": "/brand-identity.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "lang": "fr-FR",
+  "dir": "ltr",
+  "prefer_related_applications": false
+}
